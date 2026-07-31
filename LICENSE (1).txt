@@ -1,0 +1,15 @@
+Copyright (c) 2026 Aurix Angary. All rights reserved.
+
+TERMS AND CONDITIONS FOR USE AND DISTRIBUTION
+
+1. Ownership: The software "RootX" (including all source code, assets, and documentation) is the exclusive property of Aurix Angary.
+
+2. Usage License: Users are granted a non-exclusive license to use the application for personal or professional development purposes as intended within the app's functionality.
+
+3. Restrictions:
+    - Rebranding Prohibited: Users are strictly forbidden from removing, altering, or replacing the "Aurix Angary" or "RootX" branding with their own name or any other entity's name.
+    - No Source Code Copying: Copying, modifying, or reverse-engineering the source code for the purpose of creating derivative works or competing products is strictly prohibited.
+    - Commercial Restriction: Users may not sell, lease, or commercially exploit this software under their own name or any third-party name.
+    - Unauthorized Redistribution: Redistribution of the application's compiled binaries or source code without explicit written consent from Aurix Angary is prohibited.
+
+Any violation of these terms will result in immediate termination of the license and potential legal action.
